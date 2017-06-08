@@ -6,6 +6,12 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <AssemblyVersion>1.0.0.2</AssemblyVersion>
     <FileVersion>1.0.0.2</FileVersion>
+    <PackageProjectUrl>https://github.com/xjoker/QcloudAPIHelperForCore</PackageProjectUrl>
+    <Description>QCloud API Helper For .NET Core</Description>
+    <Copyright>Copyright 2017 By xJoker</Copyright>
+    <PackageTags>Qcloud</PackageTags>
+    <Authors>xJoker</Authors>
+    <Company>xJoker</Company>
   </PropertyGroup>
 
   <ItemGroup>
