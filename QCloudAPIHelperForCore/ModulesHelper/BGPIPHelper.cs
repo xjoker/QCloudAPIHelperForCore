@@ -1,7 +1,9 @@
 ﻿using Newtonsoft.Json;
+using QCloudAPIHelperForCore.Base;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using static QCloudAPIHelperForCore.Base.APIEnum;
 
 namespace QCloudAPIHelperForCore.ModulesHelper
 {
